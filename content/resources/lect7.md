@@ -4,8 +4,6 @@ description: Lecture 7 notes.
 file: /courses/18-409-behavior-of-algorithms-spring-2002/be1c965e61f28e2495c76c8fe1e89922_lect7.pdf
 file_size: 132895
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

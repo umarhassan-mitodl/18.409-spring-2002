@@ -6,8 +6,6 @@ description: Code file in support of Lecture 7.  This code was presented by the 
 file: /courses/18-409-behavior-of-algorithms-spring-2002/017e1b8c3e56d2a76ba9b8a399db5d94_crossedGrid.m
 file_size: 1112
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

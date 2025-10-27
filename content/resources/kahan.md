@@ -6,8 +6,6 @@ description: Code file in support of Lecture 11.  This code was presented by the
 file: /courses/18-409-behavior-of-algorithms-spring-2002/0f51881c7aefeeba1e2165b146912dbf_kahan.m
 file_size: 92
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

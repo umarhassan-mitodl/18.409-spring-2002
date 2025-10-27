@@ -6,8 +6,6 @@ description: Code file in support of Lecture 4.  This code was presented by the 
 file: /courses/18-409-behavior-of-algorithms-spring-2002/14f16e06356fe6e9933a9817fb49d38a_art.m
 file_size: 525
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

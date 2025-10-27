@@ -36,7 +36,6 @@
     "website": "18-409-behavior-of-algorithms-spring-2002"
   },
   "course_title": "Behavior of Algorithms",
-  "hide_download": true,
   "course_description": "This course is a study of Behavior of Algorithms and covers an area of current interest in theoretical computer science. The topics vary from term to term. During this term, we discuss rigorous approaches to explaining the typical performance of algorithms with a focus on the following approaches:\u00a0smoothed analysis, condition numbers/parametric analysis, and subclassing inputs.\n",
   "department_numbers": [
     "18"
@@ -47,7 +46,6 @@
     "content": "31f1faeb-6235-f499-6e52-c870dd12ee70",
     "website": "18-409-behavior-of-algorithms-spring-2002"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes"
   ],

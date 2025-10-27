@@ -6,8 +6,6 @@ description: Code file in support of Lecture 16.  This code was presented by the
 file: /courses/18-409-behavior-of-algorithms-spring-2002/9cb5ca0f11e247c960c556eb649b0c14_ppDat.mat
 file_size: 21656
 file_type: application/octet-stream
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
